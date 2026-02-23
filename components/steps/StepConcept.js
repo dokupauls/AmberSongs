@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../shared/Card.jsx';
+import Card from '../shared/Card.js';
 
 export default function StepConcept({ char, onChange }) {
   return (
