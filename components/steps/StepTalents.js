@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Card from '../shared/Card.jsx';
+import Card from '../shared/Card.js';
 import { TALENTS, TALENT_CATEGORIES } from '../../data/talents.js';
 import { SPELLS, SPELL_ABILITY } from '../../data/spells.js';
 
