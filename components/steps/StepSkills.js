@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../shared/Card.jsx';
+import Card from '../shared/Card.js';
 import { SKILLS } from '../../data/skills.js';
 import { AGES } from '../../data/ages.js';
 
