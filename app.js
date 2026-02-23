@@ -4,15 +4,15 @@ import { STEP_NAMES, DEFAULT_ABILITIES } from './constants.js';
 import { AGES }                          from './data/ages.js';
 import { calcPointsLeft, syncChains }    from './utils.js';
 
-import StepNav       from './components/shared/StepNav.jsx';
-import StepConcept   from './components/steps/StepConcept.jsx';
-import StepAge       from './components/steps/StepAge.jsx';
-import StepAbilities from './components/steps/StepAbilities.jsx';
-import StepSkills    from './components/steps/StepSkills.jsx';
-import StepTalents   from './components/steps/StepTalents.jsx';
-import StepEquipment from './components/steps/StepEquipment.jsx';
-import StepChains    from './components/steps/StepChains.jsx';
-import StepSheet     from './components/steps/StepSheet.jsx';
+import StepNav       from './components/shared/StepNav.js';
+import StepConcept   from './components/steps/StepConcept.js';
+import StepAge       from './components/steps/StepAge.js';
+import StepAbilities from './components/steps/StepAbilities.js';
+import StepSkills    from './components/steps/StepSkills.js';
+import StepTalents   from './components/steps/StepTalents.js';
+import StepEquipment from './components/steps/StepEquipment.js';
+import StepChains    from './components/steps/StepChains.js';
+import StepSheet     from './components/steps/StepSheet.js';
 
 // ── INITIAL STATE ──────────────────────────────────────────────────────────
 
