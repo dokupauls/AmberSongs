@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../shared/Card.jsx';
+import Card from '../shared/Card.js';
 import { AGES } from '../../data/ages.js';
 import { DICE_STEPS } from '../../constants.js';
 import { getChainSources, calcLinksLeft } from '../../utils.js';
