@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../shared/Card.jsx';
+import Card from '../shared/Card.js';
 import { ABILITIES } from '../../data/abilities.js';
 import { AGES } from '../../data/ages.js';
 import { fmt, calcHP, calcSupply, calcItemSlots, calcPointsLeft } from '../../utils.js';
