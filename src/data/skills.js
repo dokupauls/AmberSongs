@@ -1,0 +1,17 @@
+export const SKILLS = [
+  'Acrobatics',
+  'Anatomy',
+  'Animal Handling',
+  'Arcana',
+  'Athletics',
+  'Awareness',
+  'Crafting',
+  'Deception',
+  'Insight',
+  'Leadership',
+  'Lore and Songs',
+  'Persuasion',
+  'Sleight of Hand',
+  'Stealth',
+  'Survival',
+];
